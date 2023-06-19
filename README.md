@@ -7,4 +7,12 @@
 - The Component may have data private to itself. We call it "State".
 - The Component may have data to share with other Components. We call them "Props".
 
+- Imdb api key: f08fff03
+
+``js
+
+```
+  const API_URL = "http://www.omdbapi.com?apikey=f08fff03";
+```
+
 </details>
